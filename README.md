@@ -3,6 +3,11 @@
 ## 🔍 Domain
 **Web & Software Development (IoT and API Integration)**  
 
+Write a program to check whether a string belongs to a grammar or not(In C++)
+
+Use the char method
+Like char g[0][0]  = {"S - aAB" , .... And so on
+
 This project combines **web technologies** and **object-oriented C++ programming** to build a real-time weather forecasting application.  
 It uses the [WeatherAPI.com](https://www.weatherapi.com) service to fetch **live weather data** and displays it in an interactive web interface.
 
