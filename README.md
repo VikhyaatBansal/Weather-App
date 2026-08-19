@@ -5,6 +5,12 @@
 
 Write a program to check whether a string belongs to a grammar or not(In C++)
 
+Given Grammar:
+S - aAB
+A - a/E
+B - b/E
+E means ephsilon and "-" means arrow
+
 Use the char method
 Like char g[0][0]  = {"S - aAB" , .... And so on
 
